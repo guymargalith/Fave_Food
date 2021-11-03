@@ -1,0 +1,5 @@
+@media only screen and (max-width: 775px){
+    .card-text {
+        font-size: small;
+    }
+}
